@@ -1,6 +1,6 @@
 # SevnJS Extended Examples
 
-Author:  Prateek Raj Gautam / prateekrajgautam
+> Author:  Prateek Raj Gautam / prateekrajgautam
 
 ## Pattern C: Dynamic Theming
 ```javascript

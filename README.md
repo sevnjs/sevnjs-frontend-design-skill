@@ -3,8 +3,8 @@
 An AI Agent Skill for building frontends with [SevnJS](https://sevnjs.mgeek.in) — a lightweight vanilla JS utility library.
 
 ## Author
-- **Maintainer**: <Your Name / GitHub Handle>
-- **Contact**: <email or GitHub URL>
+- **Maintainer**: Prateek Raj Gautam / prateekrajgautam
+- **Contact**: [prateekrajgautam](https://github.com/prateekrajgautam)
 - **License**: MIT
 
 ## Installation
