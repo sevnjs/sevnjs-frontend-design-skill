@@ -1,8 +1,8 @@
 ---
-name: sevnjs-frontend-design
+name: sevnjs-frontend-design-skill
 description: Use when building frontend UIs with SevnJS (gen, append, grab, loadscss, cssvar, load, getfile, parsemd, log). Trigger when a user asks to create web interfaces using SevnJS utilities without a build step, or references sevnjs.mgeek.in.
 version: 1.0.0
-author: <Your Name / GitHub Handle>
+author: Prateek Raj Gautam / prateekrajgautam
 license: MIT
 tags: [frontend, dom-manipulation, vanilla-js, sevnjs, no-build]
 ---
