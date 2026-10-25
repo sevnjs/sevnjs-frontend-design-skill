@@ -20,3 +20,11 @@ An AI Agent Skill for building frontends with [SevnJS](https://sevnjs.mgeek.in) 
 ## Links
 - SevnJS docs: https://sevnjs.mgeek.in/docs
 - CDN: https://sevnjs.github.io/cdn/latest/sevn.min.js
+
+
+
+# Skill.md URL
+`https://raw.githubusercontent.com/sevnjs/sevnjs-frontend-design-skill/refs/heads/main/SKILL.md`
+
+# Reference.md URL
+`https://raw.githubusercontent.com/sevnjs/sevnjs-frontend-design-skill/refs/heads/main/reference.md`

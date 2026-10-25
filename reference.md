@@ -37,9 +37,3 @@
 
 ## Error Handling
 All core functions wrap logic in `try/catch` and log to console. Agents should still wrap user input in their own `try/catch`.
-
-# Skill.md URL
-`https://raw.githubusercontent.com/sevnjs/sevnjs-frontend-design-skill/refs/heads/main/SKILL.md`
-
-# Reference.md URL
-`https://raw.githubusercontent.com/sevnjs/sevnjs-frontend-design-skill/refs/heads/main/reference.md`
